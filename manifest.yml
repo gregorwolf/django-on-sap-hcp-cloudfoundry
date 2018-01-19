@@ -1,5 +1,6 @@
 ---
 applications:
 - name: djangotasks
+  memory: 512M
   services:
   - postgres-service
